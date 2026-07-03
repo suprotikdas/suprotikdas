@@ -9,7 +9,7 @@
 </a>
 
 <!-- 3. INFO BADGES ROW -->
-<img src="https://img.shields.io/badge/Degree-B.Tech%20CSE-1E1E2E?style=flat-square&labelColor=1E1E2E&color=89B4FA" />
+<img src="https://img.shields.io/badge/Degree-B.Tech%20CSE-1E1E2E?style=flat-square&labelColor=1E1E2E&color=2C466E" />
 <img src="https://img.shields.io/badge/Role-Security%20Analyst-1E1E2E?style=flat-square&labelColor=1E1E2E&color=89B4FA" />
 <img src="https://img.shields.io/badge/Experience-2%20Years-1E1E2E?style=flat-square&labelColor=1E1E2E&color=89B4FA" />
 
