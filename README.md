@@ -5,7 +5,7 @@
 
 <!-- 2. TYPING LINE -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&duration=2800&pause=800&color=FF6E6C&background=0D0D0D&center=true&vCenter=true&width=650&height=100&lines=WHOAMI%3F+SECURITY+ANALYST;STACK%3A+PYTHON+%2F+C+%2F+ASSEMBLY;BUILDING%3A+HOSPITAL+MGMT+SYSTEM" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&duration=2800&pause=800&color=FF6E6C&background=00000000&center=true&vCenter=true&width=650&height=100&lines=WHOAMI%3F+SECURITY+ANALYST;STACK%3A+PYTHON+%2F+C+%2F+ASSEMBLY;BUILDING%3A+HOSPITAL+MGMT+SYSTEM" alt="Typing SVG" />
 </a>
 
 <br/><br/>
