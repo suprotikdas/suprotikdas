@@ -36,7 +36,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6E6C,100:FF6E6C&height=10&section=header" width="100%"/>
 
-## ▓▓ ABOUT ▓▓
+## ABOUT
 
 **Security Analyst — 2 years — Network & Offensive Security → pivoting hard into AI/ML.**
 
@@ -54,7 +54,7 @@ OPEN_TO   : Network Security Engineer, ML Engineer
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6E6C,100:FF6E6C&height=10&section=header" width="100%"/>
 
-## ▓▓ TECH STACK ▓▓
+## TECH STACK
 
 **Languages & Core**
 
@@ -73,7 +73,7 @@ OPEN_TO   : Network Security Engineer, ML Engineer
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6E6C,100:FF6E6C&height=10&section=header" width="100%"/>
 
-## ▓▓ SPECIALTY ▓▓
+## SPECIALTY 
 
 <img src="https://img.shields.io/badge/NETWORK_SECURITY-FF6E6C?style=for-the-badge&logoColor=0D0D0D&color=FF6E6C&labelColor=0D0D0D" />
 <img src="https://img.shields.io/badge/OFFENSIVE_SECURITY-FF6E6C?style=for-the-badge&logoColor=0D0D0D&color=FF6E6C&labelColor=0D0D0D" />
@@ -83,7 +83,7 @@ OPEN_TO   : Network Security Engineer, ML Engineer
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6E6C,100:FF6E6C&height=10&section=header" width="100%"/>
 
-## ▓▓ EXPERTISE ▓▓
+## EXPERTISE
 
 | DOMAIN | LEVEL | DETAILS |
 |---|---|---|
@@ -98,7 +98,7 @@ OPEN_TO   : Network Security Engineer, ML Engineer
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6E6C,100:FF6E6C&height=10&section=header" width="100%"/>
 
-## ▓▓ FEATURED PROJECT ▓▓
+## FEATURED PROJECT
 
 <details open>
 <summary><b>🏥 HOSPITAL MANAGEMENT SYSTEM</b></summary>
@@ -118,7 +118,7 @@ An automated application to locate the nearest hospital with emergency bed/resou
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6E6C,100:FF6E6C&height=10&section=header" width="100%"/>
 
-## ▓▓ EXPERIENCE ▓▓
+## EXPERIENCE 
 
 **GAMEONIX ESPORTS AND GAMING** — `Graphic Designer Lead (Internship)`
 
@@ -131,7 +131,7 @@ An automated application to locate the nearest hospital with emergency bed/resou
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6E6C,100:FF6E6C&height=10&section=header" width="100%"/>
 
-## ▓▓ ACHIEVEMENTS ▓▓
+## ACHIEVEMENTS 
 
 <div align="center">
 
@@ -146,7 +146,7 @@ An automated application to locate the nearest hospital with emergency bed/resou
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6E6C,100:FF6E6C&height=10&section=header" width="100%"/>
 
-## ▓▓ EDUCATION ▓▓
+## EDUCATION 
 
 <div align="center">
 
@@ -158,7 +158,7 @@ An automated application to locate the nearest hospital with emergency bed/resou
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6E6C,100:FF6E6C&height=10&section=header" width="100%"/>
 
-## ▓▓ CODING PROFILES ▓▓
+## CODING PROFILES
 
 <div align="center">
 
@@ -170,7 +170,7 @@ An automated application to locate the nearest hospital with emergency bed/resou
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6E6C,100:FF6E6C&height=10&section=header" width="100%"/>
 
-## ▓▓ GITHUB ANALYTICS ▓▓
+## GITHUB ANALYTICS
 
 <div align="center">
 
@@ -185,7 +185,7 @@ An automated application to locate the nearest hospital with emergency bed/resou
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6E6C,100:FF6E6C&height=10&section=header" width="100%"/>
 
-## ▓▓ ACTIVITY GRAPH ▓▓
+## ACTIVITY GRAPH
 
 <div align="center">
 
@@ -197,7 +197,7 @@ An automated application to locate the nearest hospital with emergency bed/resou
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6E6C,100:FF6E6C&height=10&section=header" width="100%"/>
 
-## ▓▓ SNAKE ▓▓
+## SNAKE
 
 <div align="center">
 
@@ -211,7 +211,7 @@ An automated application to locate the nearest hospital with emergency bed/resou
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6E6C,100:FF6E6C&height=10&section=header" width="100%"/>
 
-## ▓▓ CURRENT FOCUS ▓▓
+## CURRENT FOCUS
 
 ```yaml
 learning:
@@ -233,7 +233,7 @@ open_to:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6E6C,100:FF6E6C&height=10&section=header" width="100%"/>
 
-## ▓▓ CONNECT ▓▓
+## CONNECT
 
 <a href="https://linkedin.com/in/suprotik-das-765656336/"><img src="https://img.shields.io/badge/LinkedIn-FF6E6C?style=for-the-badge&logo=linkedin&logoColor=0D0D0D" /></a>
 <a href="https://instagram.com/sup_techver1.0"><img src="https://img.shields.io/badge/Instagram-FF6E6C?style=for-the-badge&logo=instagram&logoColor=0D0D0D" /></a>
