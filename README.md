@@ -244,6 +244,6 @@ open_to:
 
 **"EVERY PACKET TELLS A STORY — I JUST READ BETWEEN THE LINES."**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:0D0D0D&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6E6C,100:FF6E6C&height=120&section=footer" />
 
 </div>
