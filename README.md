@@ -61,7 +61,7 @@ OPEN_TO   : Network Security Engineer, ML Engineer
 **Security & Data Tooling**
 
 <div align="center">
-<img src="https://img.shields.io/badge/Wireshark-FF6E6C?style=for-the-badge&logo=wireshark&logoColor=0D0D0D" /> <img src="https://img.shields.io/badge/Nmap-FF6E6C?style=for-the-badge&logo=nmap&logoColor=0D0D0D" /> <img src="https://img.shields.io/badge/Metasploit-FF6E6C?style=for-the-badge&logo=metasploit&logoColor=0D0D0D" /> <img src="https://img.shields.io/badge/Kali%20Linux-FF6E6C?style=for-the-badge&logo=kalilinux&logoColor=0D0D0D" /> <img src="https://img.shields.io/badge/Neo4j-FF6E6C?style=for-the-badge&logo=neo4j&logoColor=0D0D0D" /> <img src="https://img.shields.io/badge/Scikit--Learn-FF6E6C?style=for-the-badge&logo=scikitlearn&logoColor=0D0D0D" />
+<img src="https://img.shields.io/badge/Wireshark-FF6E6C?style=for-the-badge&logo=wireshark&logoColor=0D0D0D" /> <img src="https://img.shields.io/badge/🔍%20Nmap-FF6E6C?style=for-the-badge&logoColor=0D0D0D&color=FF6E6C" /> <img src="https://img.shields.io/badge/Metasploit-FF6E6C?style=for-the-badge&logo=metasploit&logoColor=0D0D0D" /> <img src="https://img.shields.io/badge/Kali%20Linux-FF6E6C?style=for-the-badge&logo=kalilinux&logoColor=0D0D0D" /> <img src="https://img.shields.io/badge/Neo4j-FF6E6C?style=for-the-badge&logo=neo4j&logoColor=0D0D0D" /> <img src="https://img.shields.io/badge/Scikit--Learn-FF6E6C?style=for-the-badge&logo=scikitlearn&logoColor=0D0D0D" />
 </div>
 
 <br/>
