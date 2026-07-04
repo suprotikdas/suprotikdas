@@ -1,40 +1,46 @@
 <div align="center">
 
-<!-- 1. ANIMATED BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:1E1E2E,100:1C7494&height=200&section=header&text=Suprotik%20Das&fontSize=55&fontColor=CDD6F4&fontAlignY=40&desc=Security%20Analyst%20%7C%20Offensive%20Security%20%26%20Applied%20AI%2FML&descAlignY=62&descSize=18&animation=fadeIn" />
+<!-- 1. BOLD BLOCK BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:0D0D0D&height=180&section=header&text=SUPROTIK%20DAS&fontSize=60&fontColor=FFE600&fontAlignY=45&fontFamily=Archivo+Black&desc=SECURITY%20ANALYST%20%C2%B7%20OFFENSIVE%20SEC%20%C2%B7%20APPLIED%20AI%2FML&descAlignY=70&descSize=16&descColor=FF3EA5" />
 
-<!-- 2. TYPING SVG -->
+<!-- 2. TYPING LINE -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=1C7494&center=true&vCenter=true&width=650&height=140&lines=%24+whoami;Security+Analyst+%40+Offensive+Security+%2B+AI%2FML;%24+cat+stack.txt;Python+%7C+C+%7C+Assembly+%7C+Scikit-Learn;%24+./run+current_project.sh;Building+Hospital+Management+System" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&duration=2800&pause=800&color=2B6CFF&background=0D0D0D&center=true&vCenter=true&width=650&height=100&lines=WHOAMI%3F+SECURITY+ANALYST;STACK%3A+PYTHON+%2F+C+%2F+ASSEMBLY;BUILDING%3A+HOSPITAL+MGMT+SYSTEM" alt="Typing SVG" />
 </a>
 
-<!-- 3. INFO BADGES ROW -->
-<img src="https://img.shields.io/badge/Degree-B.Tech%20CSE-1E1E2E?style=flat-square&labelColor=1E1E2E&color=1C7494" />
-<img src="https://img.shields.io/badge/Role-Security%20Analyst-1E1E2E?style=flat-square&labelColor=1E1E2E&color=1C7494" />
-<img src="https://img.shields.io/badge/Experience-2%20Years-1E1E2E?style=flat-square&labelColor=1E1E2E&color=1C7494" />
-
-<!-- 4. CTA BUTTONS -->
 <br/><br/>
-<a href="https://linkedin.com/in/suprotik-das-765656336/"><img src="https://img.shields.io/badge/LinkedIn-1E1E2E?style=for-the-badge&logo=linkedin&logoColor=1C7494&color=1E1E2E&labelColor=1E1E2E" /></a>
-<a href="https://instagram.com/sup_techver1.0"><img src="https://img.shields.io/badge/Instagram-1E1E2E?style=for-the-badge&logo=instagram&logoColor=1C7494&color=1E1E2E&labelColor=1E1E2E" /></a>
-<a href="mailto:dsuprotik29@gmail.com"><img src="https://img.shields.io/badge/Email-1E1E2E?style=for-the-badge&logo=gmail&logoColor=1C7494&color=1E1E2E&labelColor=1E1E2E" /></a>
-<a href="https://github.com/suprotikdas"><img src="https://img.shields.io/badge/GitHub-1E1E2E?style=for-the-badge&logo=github&logoColor=1C7494&color=1E1E2E&labelColor=1E1E2E" /></a>
 
-<!-- 5. PROFILE STATS -->
+<!-- 3. STAMP BADGES -->
+<img src="https://img.shields.io/badge/DEGREE-B.TECH%20CSE-FFE600?style=for-the-badge&labelColor=0D0D0D&color=FFE600" />
+<img src="https://img.shields.io/badge/ROLE-SECURITY%20ANALYST-FF3EA5?style=for-the-badge&labelColor=0D0D0D&color=FF3EA5" />
+<img src="https://img.shields.io/badge/EXPERIENCE-2%20YEARS-2B6CFF?style=for-the-badge&labelColor=0D0D0D&color=2B6CFF" />
+
 <br/><br/>
-<img src="https://komarev.com/ghpvc/?username=suprotikdas&color=1c7494&style=flat-square&label=Profile+Views" />
-<img src="https://img.shields.io/github/followers/suprotikdas?style=flat-square&color=1c7494&labelColor=1e1e2e" />
-<img src="https://img.shields.io/github/stars/suprotikdas?style=flat-square&color=1c7494&labelColor=1e1e2e" />
+
+<!-- 4. CONTACT BLOCKS -->
+<a href="https://linkedin.com/in/suprotik-das-765656336/"><img src="https://img.shields.io/badge/LINKEDIN-FFE600?style=for-the-badge&logo=linkedin&logoColor=0D0D0D&color=FFE600&labelColor=0D0D0D" /></a>
+<a href="https://instagram.com/sup_techver1.0"><img src="https://img.shields.io/badge/INSTAGRAM-FF3EA5?style=for-the-badge&logo=instagram&logoColor=0D0D0D&color=FF3EA5&labelColor=0D0D0D" /></a>
+<a href="mailto:dsuprotik29@gmail.com"><img src="https://img.shields.io/badge/EMAIL-2B6CFF?style=for-the-badge&logo=gmail&logoColor=0D0D0D&color=2B6CFF&labelColor=0D0D0D" /></a>
+<a href="https://github.com/suprotikdas"><img src="https://img.shields.io/badge/GITHUB-FFE600?style=for-the-badge&logo=github&logoColor=0D0D0D&color=FFE600&labelColor=0D0D0D" /></a>
+
+<br/><br/>
+
+<!-- 5. COUNTERS -->
+<img src="https://komarev.com/ghpvc/?username=suprotikdas&color=ff3ea5&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0D0D0D" />
+<img src="https://img.shields.io/github/followers/suprotikdas?style=for-the-badge&color=2b6cff&labelColor=0D0D0D&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/stars/suprotikdas?style=for-the-badge&color=ffe600&labelColor=0D0D0D&label=STARS" />
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1E2E,50:1C7494,100:1E1E2E&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFE600,100:FFE600&height=10&section=header" width="100%"/>
 
-## `$ cat about.md`
+## ▓▓ ABOUT ▓▓
 
-I'm a Security Analyst with 2 years of experience across network and offensive security, currently applying that same investigative mindset to AI/ML. I work hands-on with penetration testing tooling, graph-based data modeling, and Python-driven automation — and I'm actively deepening my offensive security and machine learning skills.
+**Security Analyst — 2 years — Network & Offensive Security → pivoting hard into AI/ML.**
+
+Hands-on with penetration testing tooling, graph-based data modeling, and Python automation. Actively stacking XP in offensive security and machine learning.
 
 ```bash
 ROLE      : Security Analyst
@@ -46,9 +52,9 @@ OPEN_TO   : Network Security Engineer, ML Engineer
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1E2E,50:1C7494,100:1E1E2E&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF3EA5,100:FF3EA5&height=10&section=header" width="100%"/>
 
-## `$ ls tech-stack/`
+## ▓▓ TECH STACK ▓▓
 
 **Languages & Core**
 
@@ -56,170 +62,154 @@ OPEN_TO   : Network Security Engineer, ML Engineer
 
 **Security & Data Tooling**
 
-<img src="https://img.shields.io/badge/Wireshark-1E1E2E?style=flat-square&logo=wireshark&logoColor=1C7494&color=1E1E2E" />
-<img src="https://img.shields.io/badge/Nmap-1E1E2E?style=flat-square&logo=nmap&logoColor=1C7494&color=1E1E2E" />
-<img src="https://img.shields.io/badge/Metasploit-1E1E2E?style=flat-square&logo=metasploit&logoColor=1C7494&color=1E1E2E" />
-<img src="https://img.shields.io/badge/Kali%20Linux-1E1E2E?style=flat-square&logo=kalilinux&logoColor=1C7494&color=1E1E2E" />
-<img src="https://img.shields.io/badge/Neo4j-1E1E2E?style=flat-square&logo=neo4j&logoColor=1C7494&color=1E1E2E" />
-<img src="https://img.shields.io/badge/Scikit--Learn-1E1E2E?style=flat-square&logo=scikitlearn&logoColor=1C7494&color=1E1E2E" />
+<img src="https://img.shields.io/badge/WIRESHARK-FFE600?style=for-the-badge&logo=wireshark&logoColor=0D0D0D&color=FFE600" />
+<img src="https://img.shields.io/badge/NMAP-FF3EA5?style=for-the-badge&logo=nmap&logoColor=0D0D0D&color=FF3EA5" />
+<img src="https://img.shields.io/badge/METASPLOIT-2B6CFF?style=for-the-badge&logo=metasploit&logoColor=0D0D0D&color=2B6CFF" />
+<img src="https://img.shields.io/badge/KALI%20LINUX-FFE600?style=for-the-badge&logo=kalilinux&logoColor=0D0D0D&color=FFE600" />
+<img src="https://img.shields.io/badge/NEO4J-FF3EA5?style=for-the-badge&logo=neo4j&logoColor=0D0D0D&color=FF3EA5" />
+<img src="https://img.shields.io/badge/SCIKIT--LEARN-2B6CFF?style=for-the-badge&logo=scikitlearn&logoColor=0D0D0D&color=2B6CFF" />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1E2E,50:1C7494,100:1E1E2E&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2B6CFF,100:2B6CFF&height=10&section=header" width="100%"/>
 
-## `$ ./specialty --list`
+## ▓▓ SPECIALTY ▓▓
 
-<img src="https://img.shields.io/badge/NETWORK_SECURITY-1C7494?style=for-the-badge&logoColor=1E1E2E&color=1C7494&labelColor=1E1E2E" />
-<img src="https://img.shields.io/badge/OFFENSIVE_SECURITY-1C7494?style=for-the-badge&logoColor=1E1E2E&color=1C7494&labelColor=1E1E2E" />
-<img src="https://img.shields.io/badge/APPLIED_AI%2FML-1C7494?style=for-the-badge&logoColor=1E1E2E&color=1C7494&labelColor=1E1E2E" />
+<img src="https://img.shields.io/badge/NETWORK_SECURITY-FFE600?style=for-the-badge&logoColor=0D0D0D&color=FFE600&labelColor=0D0D0D" />
+<img src="https://img.shields.io/badge/OFFENSIVE_SECURITY-FF3EA5?style=for-the-badge&logoColor=0D0D0D&color=FF3EA5&labelColor=0D0D0D" />
+<img src="https://img.shields.io/badge/APPLIED_AI%2FML-2B6CFF?style=for-the-badge&logoColor=0D0D0D&color=2B6CFF&labelColor=0D0D0D" />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1E2E,50:1C7494,100:1E1E2E&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFE600,100:FFE600&height=10&section=header" width="100%"/>
 
-## `$ cat expertise.tsv`
+## ▓▓ EXPERTISE ▓▓
 
-| Domain | Proficiency | Details |
+| DOMAIN | LEVEL | DETAILS |
 |---|---|---|
-| Network Security | ●●●●○ | Traffic analysis & reconnaissance with Wireshark, Nmap |
-| Offensive Security | ●●●●○ | Exploitation & pentesting workflows with Metasploit, Kali Linux |
-| Python Development | ●●●●● | Core language for automation, tooling, and ML |
-| Machine Learning | ●●●○○ | Applied ML with Scikit-Learn, currently deepening skills |
-| Systems Programming | ●●●○○ | C and Assembly for low-level understanding |
-| Graph Databases | ●●●○○ | Neo4j for relational/route-based data modeling |
+| **NETWORK SECURITY** | ●●●●○ | Traffic analysis & recon — Wireshark, Nmap |
+| **OFFENSIVE SECURITY** | ●●●●○ | Exploitation & pentesting — Metasploit, Kali Linux |
+| **PYTHON DEV** | ●●●●● | Core language for automation, tooling, ML |
+| **MACHINE LEARNING** | ●●●○○ | Applied ML with Scikit-Learn, leveling up |
+| **SYSTEMS PROGRAMMING** | ●●●○○ | C and Assembly for low-level understanding |
+| **GRAPH DATABASES** | ●●●○○ | Neo4j for relational/route-based data modeling |
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1E2E,50:1C7494,100:1E1E2E&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF3EA5,100:FF3EA5&height=10&section=header" width="100%"/>
 
-## `$ ./featured-projects.sh`
+## ▓▓ FEATURED PROJECT ▓▓
 
 <details open>
-<summary><b>🏥 Hospital Management System</b></summary>
+<summary><b>🏥 HOSPITAL MANAGEMENT SYSTEM</b></summary>
 <br/>
 
 An automated application to locate the nearest hospital with emergency bed/resource availability, paired with an interior route-guidance system for fast navigation during emergencies.
 
-| Stack | Scale | Impact |
+| STACK | SCALE | IMPACT |
 |---|---|---|
-| Python, Kotlin, GraphDB | Full-stack mobile + backend | Faster hospital discovery and routing in emergency situations |
+| Python, Kotlin, GraphDB | Full-stack mobile + backend | Faster hospital discovery and routing in emergencies |
 
-**My contribution:** Project Lead — owned architecture and delivery end-to-end.
+**ROLE:** Project Lead — owned architecture and delivery end-to-end.
 
 </details>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1E2E,50:1C7494,100:1E1E2E&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2B6CFF,100:2B6CFF&height=10&section=header" width="100%"/>
 
-## `$ git log --experience`
+## ▓▓ EXPERIENCE ▓▓
 
-**Gameonix Esports and Gaming** — `Graphic Designer Lead (Internship)`
+**GAMEONIX ESPORTS AND GAMING** — `Graphic Designer Lead (Internship)`
 
 - Managed and led the design team
 - Worked on live broadcasting production
 
-`#leadership` `#design` `#live-broadcast`
+`#LEADERSHIP` `#DESIGN` `#LIVE-BROADCAST`
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1E2E,50:1C7494,100:1E1E2E&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFE600,100:FFE600&height=10&section=header" width="100%"/>
 
-## `$ cat achievements.md`
+## ▓▓ ACHIEVEMENTS ▓▓
 
 <div align="center">
 
-| Achievement | Detail |
+| ACHIEVEMENT | DETAIL |
 |:---:|:---:|
-| 🎓 Certification | Cisco CyberOps Associate |
-| 🛡️ HackTheBox | Active profile — practical offensive security practice |
+| 🎓 CERTIFICATION | Cisco CyberOps Associate |
+| 🛡️ HACKTHEBOX | Active profile — practical offensive security practice |
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1E2E,50:1C7494,100:1E1E2E&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF3EA5,100:FF3EA5&height=10&section=header" width="100%"/>
 
-## `$ cat education.txt`
+## ▓▓ EDUCATION ▓▓
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering-1C7494?style=for-the-badge&logoColor=1E1E2E&color=1C7494&labelColor=1E1E2E" />
+<img src="https://img.shields.io/badge/B.TECH-COMPUTER%20SCIENCE%20%26%20ENGINEERING-2B6CFF?style=for-the-badge&logoColor=0D0D0D&color=2B6CFF&labelColor=0D0D0D" />
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1E2E,50:1C7494,100:1E1E2E&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2B6CFF,100:2B6CFF&height=10&section=header" width="100%"/>
 
-## `$ ./coding-profiles`
+## ▓▓ CODING PROFILES ▓▓
 
 <div align="center">
 
-<a href="https://profile.hackthebox.com/profile/019dd3f1-bb8f-7187-8273-da4488845a70"><img src="https://img.shields.io/badge/Hack%20The%20Box-1E1E2E?style=for-the-badge&logo=hackthebox&logoColor=1C7494&color=1E1E2E&labelColor=1E1E2E" /></a>
+<a href="https://profile.hackthebox.com/profile/019dd3f1-bb8f-7187-8273-da4488845a70"><img src="https://img.shields.io/badge/HACK%20THE%20BOX-FFE600?style=for-the-badge&logo=hackthebox&logoColor=0D0D0D&color=FFE600&labelColor=0D0D0D" /></a>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1E2E,50:1C7494,100:1E1E2E&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFE600,100:FFE600&height=10&section=header" width="100%"/>
 
-## `$ ./github-analytics --render`
+## ▓▓ GITHUB ANALYTICS ▓▓
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=suprotikdas&show_icons=true&hide_border=false&border_color=1C7494&bg_color=1E1E2E&title_color=1C7494&icon_color=1C7494&text_color=CDD6F4&ring_color=1C7494" />
-<img height="165" src="https://streak-stats.demolab.com/?user=suprotikdas&background=1E1E2E&border=1C7494&stroke=1C7494&ring=1C7494&fire=1C7494&currStreakLabel=1C7494&sideLabels=CDD6F4&currStreakNum=CDD6F4&sideNums=CDD6F4&dates=CDD6F4" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=suprotikdas&show_icons=true&hide_border=false&border_color=0D0D0D&bg_color=0D0D0D&title_color=FFE600&icon_color=FF3EA5&text_color=2B6CFF&ring_color=FFE600" />
+<img height="165" src="https://streak-stats.demolab.com/?user=suprotikdas&background=0D0D0D&border=0D0D0D&stroke=FFE600&ring=FF3EA5&fire=FFE600&currStreakLabel=FF3EA5&sideLabels=2B6CFF&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suprotikdas&layout=compact&hide_border=false&border_color=1C7494&bg_color=1E1E2E&title_color=1C7494&text_color=CDD6F4" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suprotikdas&layout=compact&hide_border=false&border_color=0D0D0D&bg_color=0D0D0D&title_color=FFE600&text_color=2B6CFF" />
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1E2E,50:1C7494,100:1E1E2E&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF3EA5,100:FF3EA5&height=10&section=header" width="100%"/>
 
-## `$ ./trophies --show`
+## ▓▓ TROPHIES ▓▓
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=suprotikdas&theme=onedark&column=7&margin-w=15&no-frame=true&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=suprotikdas&theme=dracula&column=7&margin-w=15&no-frame=true&row=1" />
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1E2E,50:1C7494,100:1E1E2E&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2B6CFF,100:2B6CFF&height=10&section=header" width="100%"/>
 
-## `$ ./activity-graph --render`
+## ▓▓ ACTIVITY GRAPH ▓▓
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=suprotikdas&bg_color=1E1E2E&color=1C7494&line=1C7494&point=CDD6F4&area=true&area_color=1C7494&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=suprotikdas&bg_color=0D0D0D&color=FFE600&line=FF3EA5&point=2B6CFF&area=true&area_color=FFE600&hide_border=true" />
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1E2E,50:1C7494,100:1E1E2E&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFE600,100:FFE600&height=10&section=header" width="100%"/>
 
-## `$ ./summary-cards --full`
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suprotikdas&theme=blueberry_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suprotikdas&theme=blueberry_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suprotikdas&theme=blueberry_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=suprotikdas&theme=blueberry_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=suprotikdas&theme=blueberry_dark" />
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1E2E,50:1C7494,100:1E1E2E&height=3&section=header" width="100%"/>
-
-## `$ ./snake --animate`
+## ▓▓ SNAKE ▓▓
 
 <div align="center">
 
@@ -227,13 +217,13 @@ An automated application to locate the nearest hospital with emergency bed/resou
 
 </div>
 
-> Note: this only renders once you add the `platane/snk` GitHub Action workflow to the `suprotikdas/suprotikdas` repo — see final message for the workflow file.
+> NOTE: this only renders once you add the `platane/snk` GitHub Action workflow to the `suprotikdas/suprotikdas` repo.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1E2E,50:1C7494,100:1E1E2E&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF3EA5,100:FF3EA5&height=10&section=header" width="100%"/>
 
-## `$ cat current-focus.yaml`
+## ▓▓ CURRENT FOCUS ▓▓
 
 ```yaml
 learning:
@@ -253,19 +243,19 @@ open_to:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1E2E,50:1C7494,100:1E1E2E&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2B6CFF,100:2B6CFF&height=10&section=header" width="100%"/>
 
-## `$ ./connect --all`
+## ▓▓ CONNECT ▓▓
 
-<a href="https://linkedin.com/in/suprotik-das-765656336/"><img src="https://img.shields.io/badge/LinkedIn-1E1E2E?style=for-the-badge&logo=linkedin&logoColor=1C7494&color=1E1E2E&labelColor=1E1E2E" /></a>
-<a href="https://instagram.com/sup_techver1.0"><img src="https://img.shields.io/badge/Instagram-1E1E2E?style=for-the-badge&logo=instagram&logoColor=1C7494&color=1E1E2E&labelColor=1E1E2E" /></a>
-<a href="mailto:dsuprotik29@gmail.com"><img src="https://img.shields.io/badge/Email-1E1E2E?style=for-the-badge&logo=gmail&logoColor=1C7494&color=1E1E2E&labelColor=1E1E2E" /></a>
-<a href="https://profile.hackthebox.com/profile/019dd3f1-bb8f-7187-8273-da4488845a70"><img src="https://img.shields.io/badge/Hack%20The%20Box-1E1E2E?style=for-the-badge&logo=hackthebox&logoColor=1C7494&color=1E1E2E&labelColor=1E1E2E" /></a>
+<a href="https://linkedin.com/in/suprotik-das-765656336/"><img src="https://img.shields.io/badge/LINKEDIN-FFE600?style=for-the-badge&logo=linkedin&logoColor=0D0D0D&color=FFE600&labelColor=0D0D0D" /></a>
+<a href="https://instagram.com/sup_techver1.0"><img src="https://img.shields.io/badge/INSTAGRAM-FF3EA5?style=for-the-badge&logo=instagram&logoColor=0D0D0D&color=FF3EA5&labelColor=0D0D0D" /></a>
+<a href="mailto:dsuprotik29@gmail.com"><img src="https://img.shields.io/badge/EMAIL-2B6CFF?style=for-the-badge&logo=gmail&logoColor=0D0D0D&color=2B6CFF&labelColor=0D0D0D" /></a>
+<a href="https://profile.hackthebox.com/profile/019dd3f1-bb8f-7187-8273-da4488845a70"><img src="https://img.shields.io/badge/HACK%20THE%20BOX-FFE600?style=for-the-badge&logo=hackthebox&logoColor=0D0D0D&color=FFE600&labelColor=0D0D0D" /></a>
 
 <br/><br/>
 
-*"Every packet tells a story — I just read between the lines."*
+**"EVERY PACKET TELLS A STORY — I JUST READ BETWEEN THE LINES."**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1E2E,100:1C7494&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:0D0D0D&height=120&section=footer" />
 
 </div>
