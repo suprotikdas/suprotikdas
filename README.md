@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 1. BOLD BLOCK BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:0D0D0D&height=180&section=header&text=SUPROTIK%20DAS&fontSize=60&fontColor=FFEF6E&fontAlignY=45&fontFamily=Archivo+Black&desc=SECURITY%20ANALYST%20%C2%B7%20OFFENSIVE%20SEC%20%C2%B7%20APPLIED%20AI%2FML&descAlignY=70&descSize=16&descColor=FFEF6E" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:0D0D0D&height=180&section=header&text=SUPROTIK%20DAS&fontSize=60&fontColor=FF6E6C&fontAlignY=45&fontFamily=Archivo+Black&desc=SECURITY%20ANALYST%20%C2%B7%20OFFENSIVE%20SEC%20%C2%B7%20APPLIED%20AI%2FML&descAlignY=70&descSize=16&descColor=FF6E6C" />
 
 <!-- 2. TYPING LINE -->
 <a href="#">
@@ -11,7 +11,7 @@
 <br/><br/>
 
 <!-- 3. STAMP BADGES -->
-<img src="https://img.shields.io/badge/DEGREE--%20B.TECH%20CSE-FFEF6E?style=for-the-badge&labelColor=0D0D0D&color=FFEF6E" />
+<img src="https://img.shields.io/badge/DEGREE--%20B.TECH%20CSE-FFEF6E?style=for-the-badge&labelColor=0D0D0D&color=FF6F6E" />
 <img src="https://img.shields.io/badge/ROLE--%20SECURITY%20ANALYST-FFEF6E?style=for-the-badge&labelColor=0D0D0D&color=FFEF6E" />
 <img src="https://img.shields.io/badge/EXPERIENCE--%202%20YEARS-FFEF6E?style=for-the-badge&labelColor=0D0D0D&color=FFEF6E" />
 
