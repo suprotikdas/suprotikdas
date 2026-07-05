@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 1. BOLD BLOCK BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:0D0D0D&height=180&section=header&text=SUPROTIK%20DAS&fontSize=60&fontColor=FF6E6C&fontAlignY=45&fontFamily=Archivo+Black&desc=SECURITY%20ANALYST%20%C2%B7%20OFFENSIVE%20SEC%20%C2%B7%20APPLIED%20AI%2FML&descAlignY=70&descSize=16&descColor=FF6E6C" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:0D0D0D&height=180&section=header&text=SUPROTIK%20DAS&fontSize=60&fontColor=FF6E6C&fontAlignY=45&fontFamily=Archivo+Black&desc=SECURITY%20ANALYST%20%C2%B7%20APPLIED%20AI%2FML&descAlignY=70&descSize=16&descColor=FF6E6C" />
 
 <!-- 2. TYPING LINE -->
 <a href="#">
@@ -35,14 +35,14 @@
 
 ## ▓▓ ABOUT ▓▓
 
-**Security Analyst — Network & Security → pivoting hard into AI/ML.**
+**Security Analyst — 1 year — Network & Offensive Security → pivoting hard into AI/ML.**
 
-A 3rd Year student having a curiosity to lean new things. Skilled in Networks & Security currently focusing on AI/ML 
+Hands-on with penetration testing tooling, graph-based data modeling, and Python automation. Actively stacking XP in offensive security and machine learning.
 
 ```bash
 ROLE      : Security Analyst
-EXPERIENCE: WrieShark, Python
-DOMAIN    : Network & Security, AI/ML
+EXPERIENCE: 1 Year
+DOMAIN    : Network & Offensive Security, AI/ML
 STACK     : Python, C, Assembly, Scikit-Learn, Neo4j, MySQL, GCP
 OPEN_TO   : Network Security Engineer, ML Engineer
 ```
