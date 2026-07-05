@@ -11,7 +11,7 @@
 <br/><br/>
 
 <!-- 3. STAMP BADGES -->
-<img src="https://img.shields.io/badge/DEGREE--%20B.TECH%20CSE-FF6E6C?style=for-the-badge&labelColor=0D0D0D&color=FF6E6C" /> <img src="https://img.shields.io/badge/ROLE--%20SECURITY%20ANALYST-FF6E6C?style=for-the-badge&labelColor=0D0D0D&color=FF6E6C" /> <img src="https://img.shields.io/badge/EXPERIENCE--%202%20YEARS-FF6E6C?style=for-the-badge&labelColor=0D0D0D&color=FF6E6C" />
+<img src="https://img.shields.io/badge/DEGREE--%20B.TECH%20CSE-FF6E6C?style=for-the-badge&labelColor=0D0D0D&color=FF6E6C" /> <img src="https://img.shields.io/badge/ROLE--%20SECURITY%20ANALYST-FF6E6C?style=for-the-badge&labelColor=0D0D0D&color=FF6E6C" /> <img src="https://img.shields.io/badge/EXPERIENCE--%201%20YEAR-FF6E6C?style=for-the-badge&labelColor=0D0D0D&color=FF6E6C" />
 
 <br/><br/>
 
@@ -36,13 +36,13 @@
 
 ## ▓▓ ABOUT ▓▓
 
-**Security Analyst — 2 years — Network & Offensive Security → pivoting hard into AI/ML.**
+**Security Analyst — 1 year — Network & Offensive Security → pivoting hard into AI/ML.**
 
 Hands-on with penetration testing tooling, graph-based data modeling, and Python automation. Actively stacking XP in offensive security and machine learning.
 
 ```bash
 ROLE      : Security Analyst
-EXPERIENCE: 2 Years
+EXPERIENCE: 1 Year
 DOMAIN    : Network & Offensive Security, AI/ML
 STACK     : Python, C, Assembly, Scikit-Learn, Neo4j, MySQL, GCP
 OPEN_TO   : Network Security Engineer, ML Engineer
@@ -61,7 +61,7 @@ OPEN_TO   : Network Security Engineer, ML Engineer
 **Security & Data Tooling**
 
 <div align="center">
-<img src="https://img.shields.io/badge/Wireshark-FF6E6C?style=for-the-badge&logo=wireshark&logoColor=0D0D0D" /> <img src="https://img.shields.io/badge/Nmap-FF6E6C?style=for-the-badge&logo=nmap&logoColor=0D0D0D" /> <img src="https://img.shields.io/badge/Metasploit-FF6E6C?style=for-the-badge&logo=metasploit&logoColor=0D0D0D" /> <img src="https://img.shields.io/badge/Kali%20Linux-FF6E6C?style=for-the-badge&logo=kalilinux&logoColor=0D0D0D" /> <img src="https://img.shields.io/badge/Neo4j-FF6E6C?style=for-the-badge&logo=neo4j&logoColor=0D0D0D" /> <img src="https://img.shields.io/badge/Scikit--Learn-FF6E6C?style=for-the-badge&logo=scikitlearn&logoColor=0D0D0D" />
+<img src="https://img.shields.io/badge/Wireshark-FF6E6C?style=for-the-badge&logo=wireshark&logoColor=0D0D0D" /> <img src="https://img.shields.io/badge/🔍%20Nmap-FF6E6C?style=for-the-badge&logoColor=0D0D0D&color=FF6E6C" /> <img src="https://img.shields.io/badge/Metasploit-FF6E6C?style=for-the-badge&logo=metasploit&logoColor=0D0D0D" /> <img src="https://img.shields.io/badge/Kali%20Linux-FF6E6C?style=for-the-badge&logo=kalilinux&logoColor=0D0D0D" /> <img src="https://img.shields.io/badge/Neo4j-FF6E6C?style=for-the-badge&logo=neo4j&logoColor=0D0D0D" /> <img src="https://img.shields.io/badge/Scikit--Learn-FF6E6C?style=for-the-badge&logo=scikitlearn&logoColor=0D0D0D" />
 </div>
 
 <br/>
