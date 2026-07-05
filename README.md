@@ -11,7 +11,7 @@
 <br/><br/>
 
 <!-- 3. STAMP BADGES -->
-<img src="https://img.shields.io/badge/DEGREE--%20B.TECH%20CSE-FF6E6C?style=for-the-badge&labelColor=0D0D0D&color=FF6E6C" /> <img src="https://img.shields.io/badge/ROLE--%20SECURITY%20ANALYST-FF6E6C?style=for-the-badge&labelColor=0D0D0D&color=FF6E6C" /> <img src="https://img.shields.io/badge/EXPERIENCE--%201%20YEAR-FF6E6C?style=for-the-badge&labelColor=0D0D0D&color=FF6E6C" />
+<img src="https://img.shields.io/badge/DEGREE--%20B.TECH%20CSE-FF6E6C?style=for-the-badge&labelColor=0D0D0D&color=FF6E6C" /> <img src="https://img.shields.io/badge/ROLE--%20SECURITY%20ANALYST-FF6E6C?style=for-the-badge&labelColor=0D0D0D&color=FF6E6C" />
 
 <br/><br/>
 
@@ -24,7 +24,6 @@
 <br/><br/>
 
 <!-- 5. COUNTERS -->
-<img src="https://komarev.com/ghpvc/?username=suprotikdas&color=ff6e6c&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0D0D0D" />
 <img src="https://img.shields.io/github/followers/suprotikdas?style=for-the-badge&color=ff6e6c&labelColor=0D0D0D&label=FOLLOWERS" />
 <img src="https://img.shields.io/github/stars/suprotikdas?style=for-the-badge&color=ff6e6c&labelColor=0D0D0D&label=STARS" />
 
@@ -71,7 +70,7 @@ OPEN_TO   : Network Security Engineer, ML Engineer
 ## ▓▓ SPECIALTY ▓▓
 
 <div align="center">
-<img src="https://img.shields.io/badge/NETWORK_SECURITY-FF6E6C?style=for-the-badge&logoColor=0D0D0D&color=FF6E6C&labelColor=0D0D0D" /> <img src="https://img.shields.io/badge/OFFENSIVE_SECURITY-FF6E6C?style=for-the-badge&logoColor=0D0D0D&color=FF6E6C&labelColor=0D0D0D" /> <img src="https://img.shields.io/badge/APPLIED_AI%2FML-FF6E6C?style=for-the-badge&logoColor=0D0D0D&color=FF6E6C&labelColor=0D0D0D" />
+<img src="https://img.shields.io/badge/NETWORK_SECURITY-FF6E6C?style=for-the-badge&logoColor=0D0D0D&color=FF6E6C&labelColor=0D0D0D" /> <img src="https://img.shields.io/badge/APPLIED_AI%2FML-FF6E6C?style=for-the-badge&logoColor=0D0D0D&color=FF6E6C&labelColor=0D0D0D" />
 </div>
 
 <br/>
