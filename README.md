@@ -113,19 +113,6 @@ An automated application to locate the nearest hospital with emergency bed/resou
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6E6C,100:FF6E6C&height=10&section=header" width="100%"/>
 
-## ▓▓ EXPERIENCE ▓▓
-
-**GAMEONIX ESPORTS AND GAMING** — `Graphic Designer Lead (Internship)`
-
-- Managed and led the design team
-- Worked on live broadcasting production
-
-`#LEADERSHIP` `#DESIGN` `#LIVE-BROADCAST`
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6E6C,100:FF6E6C&height=10&section=header" width="100%"/>
-
 ## ▓▓ ACHIEVEMENTS ▓▓
 
 <div align="center">
