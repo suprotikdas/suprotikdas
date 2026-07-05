@@ -118,8 +118,8 @@ An automated application to locate the nearest hospital with emergency bed/resou
 
 | ACHIEVEMENT | DETAIL |
 |:---:|:---:|
-| 🎓 CERTIFICATION | Cisco CyberOps Associate |
-| 🛡️ HACKTHEBOX | Active profile — practical offensive security practice |
+|  CERTIFICATION | Cisco CyberOps Associate |
+|  HACKTHEBOX | Active profile — practical offensive security practice |
 
 </div>
 
