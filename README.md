@@ -35,14 +35,14 @@
 
 ## ▓▓ ABOUT ▓▓
 
-**Security Analyst — 1 year — Network & Offensive Security → pivoting hard into AI/ML.**
+**Security Analyst — Network & Security → pivoting hard into AI/ML.**
 
-Hands-on with penetration testing tooling, graph-based data modeling, and Python automation. Actively stacking XP in offensive security and machine learning.
+A 3rd Year student having a curiosity to lean new things. Skilled in Networks & Security currently focusing on AI/ML 
 
 ```bash
 ROLE      : Security Analyst
-EXPERIENCE: 1 Year
-DOMAIN    : Network & Offensive Security, AI/ML
+EXPERIENCE: WrieShark, Python
+DOMAIN    : Network & Security, AI/ML
 STACK     : Python, C, Assembly, Scikit-Learn, Neo4j, MySQL, GCP
 OPEN_TO   : Network Security Engineer, ML Engineer
 ```
